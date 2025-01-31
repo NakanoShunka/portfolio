@@ -53,7 +53,7 @@ unity認定アソシエイト:ゲーム開発者
 
 ### インストール方法
 1. **SideQuest**を使用して、以下のAPKファイルを実機にインストールしてください。
-2. **APKファイルのダウンロード**: [APKファイルリンク](https://your-apk-file-link.com)
+2. **APKファイルのダウンロード**: [APKファイルリンク](https://drive.google.com/file/d/1nAQgtlw3C8k0ay3gY3nEbw88cbqTZIv4/view?usp=share_link)
 3. インストール後、VRデバイスを接続してゲームを起動してください。
 
 ## 制作したスクリプト
