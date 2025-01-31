@@ -11,7 +11,7 @@
 - **ゲームエンジン**: Unity
 - **ツール**: Blender（3Dモデリング）, Substance Painter　　　
 - **その他**: Git（勉強中）　　　　　　
-
+　　　　　　　
 ### 資格　　　　　　
 unity認定アソシエイト:ゲーム開発者
 ![ライセンス画像](unity-licence.jpg)
