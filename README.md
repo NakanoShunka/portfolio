@@ -35,7 +35,7 @@ unity認定アソシエイト:ゲーム開発者
 
 
 
-[![デモ（完全版）動画](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![デモ（完全版）動画]()](https://youtu.be/vplkvmHeqpA?si=zB4L7UkcTEtemhoV)
 
 
 
