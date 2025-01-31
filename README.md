@@ -10,7 +10,7 @@
 - **プログラミング言語**: HTML/CSS, JavaScript, jQuery, PHP（最近はC#が中心なので少しブランクあり）C#　　　
 - **ゲームエンジン**: Unity
 - **ツール**: Blender（3Dモデリング）, Substance Painter　　　
-- **その他**: Git（勉強中）
+- **その他**: Git（勉強中）　　　　　　
 
 ### 資格　　　　　　
 unity認定アソシエイト:ゲーム開発者
