@@ -29,18 +29,23 @@ unity認定アソシエイト:ゲーム開発者
   - ストーリー進行
 
 ## デモ動画
-ゲームのデモ動画は以下のリンクからご覧いただけます。  
-[デモ動画へのリンク](https://your-demovideo-link.com)
+上がダイジェスト動画、下が完全版動画になります。
+
+[![デモ（ダイジェスト）動画](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
+
+[![デモ（完全版）動画](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
+
 
 ## 開発環境
 
-### 必要なソフトウェア
+### ソフトウェア
 - **OS**: Windows 10 / macOS
 - **ゲームエンジン**: Unity 2023.x
-- **依存ライブラリ**:
-  - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
-  - [Cinemachine](https://unity.com/unity/features/cinemachine)
-
+  
 ### 開発環境
 - **エディタ**: Visual Studio 2022
 - **バージョン管理**: Git, GitHub
