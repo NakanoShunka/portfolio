@@ -31,11 +31,11 @@ unity認定アソシエイト:ゲーム開発者
 ## デモ動画
 上がダイジェスト動画、下が完全版動画になります。
 
-[![デモ（ダイジェスト）動画](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![デモ（ダイジェスト）動画](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/x6bZEjhcZ84?si=3DPra7kLIjPNaZvt)
 
 
 
-[![デモ（完全版）動画]()](https://youtu.be/vplkvmHeqpA?si=zB4L7UkcTEtemhoV)
+[![デモ（完全版）動画](画像 1.jpeg)](https://youtu.be/vplkvmHeqpA?si=zB4L7UkcTEtemhoV)
 
 
 
